@@ -14,6 +14,8 @@
 pip install -e .
 memcrab init
 memcrab chat --model grok-beta
+```
+
 ✨ 核心特性
 	•	分层 rules/（global → project → task）
 	•	自动 pre-flush + 压缩（MEMORY.md）
@@ -26,13 +28,18 @@ memcrab chat --model grok-beta
 	•	memcrab compress [--level aggressive]
 	•	memcrab checkpoint save "v1.0"
 	•	memcrab memory "搜索关键词"
-安装
+
+## 安装
+
+```bash
 git clone https://github.com/gptbert/memcrab.git
 cd memcrab
 pip install -e .
+```
+
+
 欢迎 Star ⭐ 支持！ 有问题或想加功能（Docker、更多工具、autotest 闭环）随时提 Issue！
-#### 新增 `LICENSE` 文件（MIT，开源友好）
-```markdown
+
 MIT License
 
 Copyright (c) 2026 bert
