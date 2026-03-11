@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/gptbert/tgtmemcrab)
+![Stars](https://img.shields.io/github/stars/gptbert/memcrab)
 
 ## 🚀 快速开始
 
